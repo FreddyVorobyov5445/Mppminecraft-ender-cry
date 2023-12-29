@@ -3,7 +3,7 @@ Follow the rules or get banned!
 # **Summary of what’s not allowed**
 Click on the blue text to explore each item in more detail.
 
-[Русский (Russian)](https://github.com/Hyye123/OpenMPP/blob/master/ru_rules.md)
+[Русский (Russian)](https://github.com/FreddyVorobyov5445/Mppminecraft-ender-cry/blob/main/Russian_Rules.md)
 # **Summary of what’s not allowed**
 Click the blue text to learn more about each point.
 
