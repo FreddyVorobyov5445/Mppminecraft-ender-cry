@@ -1,2 +1,3 @@
-# Mppminecraft-ender-cry
-Mppminecraft-ender-cry
+# MPPAuto
+
+The unminified client files for [MPPAuto](https://mpp.autoplayer.space/).

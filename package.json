@@ -1,0 +1,17 @@
+{
+  "name": "mpp.minecraft-ender-cry",
+  "version": "3.2.5",
+  "description": "An online minecraft-ender-cry piano i can play alone or with others in real-time. MIDI support, 88 keys, velocity sensitive.  You can show off your skill or chat while listening to others play.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ws": "^7.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
