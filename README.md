@@ -1,3 +1,3 @@
-# MPPAuto
+# MPPMINECRAFT-ENDER-CRY
 
-The unminified client files for [MPPAuto](https://mpp.autoplayer.space/).
+The unminified client files for [MPPMINECRAFT-ENDER-CRY](http://nya.mppminecraft-ender-cry.mpp/) 
